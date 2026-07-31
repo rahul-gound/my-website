@@ -6,6 +6,8 @@ i am new to coding
 and i dont know how to write proper readme.md
 so thsats why my readme.md is bad 
 
+and i am making this website to show my projects i have done know 
+
 
 it have 3 pages 
 
